@@ -21,8 +21,9 @@ hr {
 }
 
 .jumbotron {
-	background-image: url("../Images/jumbobg.jpg");
+	background-image: url("../Images/jumbobg-min.jpg");
 	background-size: cover;
+	background-color: #0073e6;
 }
 
 #jumbotron-content {
@@ -35,7 +36,6 @@ hr {
 				 			 0px 8px 13px rgba(0,0,0,0.1), 
 				       0px 18px 23px rgba(0,0,0,0.1);
 }
-
 
 .row {
 	margin-bottom: 1.5rem;
